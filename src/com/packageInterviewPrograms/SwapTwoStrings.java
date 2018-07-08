@@ -13,7 +13,7 @@ public class SwapTwoStrings {
 		System.out.println(s2);
 		
 		s1=s1.substring(s2.length()); // Note stars from the 5th character to till end
-		//i.e HelloWorld   it will start from  5th index as begnning index reaches till the end
+		//i.e HelloWorld   it will start from  5th index as beginning index reaches till the end
 		System.out.println(s1);
 		
 
